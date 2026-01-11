@@ -17,7 +17,9 @@ Each game has its own folder and scripts, based on that game’s mechanics and d
 3. Create a new Tampermonkey script and paste the code.
 4. Save the script.
 5. Open the corresponding SoulsPlanner weapon page.
-6. Reload the page to see the added DPS information.
+- Dark Souls 1: https://soulsplanner.com/darksouls/weaponatk
+- Dark Souls 3: https://soulsplanner.com/darksouls3/weaponatk
+7. Reload the page to see the added DPS information.
 
 ## Better Info Here:
 Dark Souls 3: https://steamcommunity.com/sharedfiles/filedetails/?id=3385881511
