@@ -22,6 +22,7 @@ Each game has its own folder and scripts, based on that game’s mechanics and d
 7. Reload the page to see the added DPS information.
 
 ## Better Info Here:
+Dark Souls 1: https://steamcommunity.com/sharedfiles/filedetails/?id=3610804328
 Dark Souls 3: https://steamcommunity.com/sharedfiles/filedetails/?id=3385881511
 
 ## Feedback
